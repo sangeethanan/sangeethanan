@@ -1,28 +1,62 @@
-### 👋 Hi there, I'm Ratnajothy Sangeethanan
+<h1 align="center">Hi 👋, I'm Sangeethanan</h1>
+<p align="center">
+Passionate about Identity & Access Management, API technologies, and continuous learning.
+</p>
 
-#### 🚀 About Me
-- **Research Enthusiast**: I possess a strong ability for research and analysis, always keen to uncover deep insights in technology.
-- **Tech Explorer**: Currently diving deep into the realms of **Identity & Access Management** and **API Management** technologies.
-- **Audio Book Aficionado**: A big fan of audio reading 🎧. I love immersing myself in the world of books, especially English translations of Korean novels.
-  
-#### WSO2 Certifications 🥇
-[https://certification.wso2.com/web/certificate/6WS7A6](https://certification.wso2.com/certificate/6WS7A6)
-<table border="0" cellspacing="0" cellpadding="0">
+---
+
+## 🚀 About Me
+
+- 🔍 **Research Enthusiast** – I enjoy exploring complex technical topics and uncovering practical insights through research and analysis.  
+- 🧩 **Tech Explorer** – Currently focusing on **Identity & Access Management (IAM)** and **API Management** technologies.  
+- 🎧 **Audiobook Listener** – I enjoy listening to audiobooks, especially English translations of Korean novels.  
+- 🌱 Always learning and experimenting with emerging technologies.
+
+---
+
+## 🥇 WSO2 Certifications
+
+🔗 **Verify Certifications:**  
+https://certification.wso2.com/certificate/6WS7A6
+
+<table>
 <tr>
-<td align="middle" style="height: 22.5%;"><img src="/assets/images/wso2-certified-is-5-practitioner.png"></td>
-<td align="middle" style="height: 22.5%;"><img src="/assets/images/wso2-certified-is-5-developer.png"></td>
+<td align="center">
+<img src="/assets/images/wso2-certified-is-5-practitioner.png" width="140"/>
+</td>
+<td align="center">
+<img src="/assets/images/wso2-certified-is-5-developer.png" width="140"/>
+</td>
 </tr>
+
 <tr>
-<td align="middle" style="height: 22.5%;"><img src="/assets/images/wso2-certified-choreo-practitioner.png"></td>
-<td align="middle" style="height: 22.5%;"><img src="/assets/images/wso2-certified-choreo-apim-developer.png"></td>
+<td align="center">
+<img src="/assets/images/wso2-certified-choreo-practitioner.png" width="140"/>
+</td>
+<td align="center">
+<img src="/assets/images/wso2-certified-choreo-apim-developer.png" width="140"/>
+</td>
 </tr>
 </table>
 
-#### 📫 How to reach me:
-- **LinkedIn** <img aligh="left" alt="ratnajothy | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">: [Connect with me on  LinkedIn](https://www.linkedin.com/in/ratnajothy-sangeethanan)
-- **Email**: ratnajothy@wso2.com
-
-#### ⚡ Fun fact:
-- I find inspiration in the background scores of movies and nostalgic themes from classic anime and cartoons.
 ---
-> Exploring technology, enhancing capabilities, and enjoying the journey of continuous learning!
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/ratnajothy-sangeethanan">
+<img src="https://img.shields.io/badge/LinkedIn-Ratnajothy_Sangeethanan-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy listening to movie background scores and nostalgic music from classic anime and cartoons.
+
+---
+
+<p align="center">
+💡 <i>Exploring technology, expanding knowledge, and enjoying the journey of continuous learning.</i>
+</p>
