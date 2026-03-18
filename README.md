@@ -9,7 +9,6 @@ Passionate about Identity & Access Management, API technologies, and continuous 
 
 - 🔍 **Research Enthusiast** – I enjoy exploring complex technical topics and uncovering practical insights through research and analysis.  
 - 🧩 **Tech Explorer** – Currently focusing on **Identity & Access Management (IAM)** and **API Management** technologies.  
-- 🎧 **Audiobook Listener** – I enjoy listening to audiobooks, especially English translations of Korean novels.  
 - 🌱 Always learning and experimenting with emerging technologies.
 
 ---
